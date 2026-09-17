@@ -1,0 +1,24 @@
+# GreenThumb Landscaping - WEDE5020 POE Part 2
+
+## Changelog
+| Date | File | Change Made | Reason |
+|------|------|-------------|--------|
+| 2026-05-13 | index.html | Added link to css/style.css | Part 2.1 External Stylesheet |
+| 2026-05-13 | All HTML | Implemented Grid layout with classes | Part 2.4 + Part 1 feedback fix |
+| 2026-05-13 | index.html | Added srcset, sizes, picture element | Part 3.3 Responsive Images |
+
+## Responsive Design Evidence - 3.4
+Tested using Chrome DevTools:
+- Desktop 1920px: 2-column layout
+- Tablet 768px: Single column, nav stacked
+- Mobile 375px: Font sizes reduced, 100% width
+[Screenshots to be inserted]
+
+## References
+- Mozilla Developer Network (2026) CSS Grid. 
+- W3Schools (2026) Responsive Images srcset.
+
+## AI Disclosure Annexe
+Tool: Meta AI
+Prompts: "Help create external stylesheet with Flexbox Grid and responsive breakpoints for WEDE5020"
+Usage: CSS structure and responsive design guidance, README template

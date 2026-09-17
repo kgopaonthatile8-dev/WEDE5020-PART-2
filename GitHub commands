@@ -1,0 +1,5 @@
+git add .
+git commit -m "fix: Part 1 feedback - alt text and nav consistency"
+git commit -m "feat: Part 2 - add style.css with base, typography, Grid/Flexbox, hover/focus"
+git commit -m "feat: add responsive - media queries, relative units, srcset/picture"
+git push origin main
